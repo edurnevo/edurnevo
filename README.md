@@ -1,6 +1,5 @@
-<p align="center">
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
-</p>
+
 
 Eager for learning new things constantly, passionate for any way of creativity and expression
 <br>
@@ -20,6 +19,8 @@ From one place to everywhere, from a team programming to any person around the w
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <br>
+
+## Find me also in:
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/edurne-vila/">
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="30" height="30" />
