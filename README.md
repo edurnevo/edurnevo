@@ -1,6 +1,5 @@
-### <h1>Welcome to Edurne's profile!</h1>🙋‍♀️ 
+### <h1>Welcome to Edurne's profile!</h1>
 
-<img src="1200px-React-icon.svg.png" />
 
 Eager for learning new things constantly, passionate for any way of creativity and expression. 
 I believe creations made by people should be for the good of people 🤝
