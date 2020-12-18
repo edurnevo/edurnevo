@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
+<h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 
 Eager for learning new things constantly, passionate for any way of creativity and expression
@@ -18,7 +18,6 @@ From one place to everywhere, from a team programming to any person around the w
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<br>
 
 ## Find me also in:
 
