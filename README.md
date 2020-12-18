@@ -1,11 +1,11 @@
-### <h1>Hey there 🙋‍♀️<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+### <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
 
 
 Eager for learning new things constantly, passionate for any way of creativity and expression.
 I believe creations made by people should be for the good of people 🤝
 From one place to everywhere, from a team programming to any person around the world 🌍
 
-## 🙋‍♂️ Connect with me:
+## Connect with me:
 
 <p align="left">
 <a href="https://twitter.com/edurnevila"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -13,7 +13,7 @@ From one place to everywhere, from a team programming to any person around the w
 [![Linkedin: edurnevila](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edurne-vila/)](https://www.linkedin.com/in/edurne-vila/)
 </p>
 
-## 👨‍💻 Languages and Tools:
+## Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
