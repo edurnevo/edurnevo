@@ -1,9 +1,9 @@
 <p align="center">
-### <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
+### <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
 </p>
 
 Eager for learning new things constantly, passionate for any way of creativity and expression.
-I believe creations made by people should be for the good of people 🤝
+I believe creations made by people should be for the good of people 🌺
 From one place to everywhere, from a team programming to any person around the world 🌍
 
 
@@ -19,16 +19,15 @@ From one place to everywhere, from a team programming to any person around the w
 
 <br>
 
-<p align="center">
-  <a title="LinkedIn" href="https://www.linkedin.com/in/edurne-vila/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
-  </a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/edurne-vila/">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+</a>
   
-  <a title="Email" href="mailto:edurnevila@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
-  </a>
+<a title="Email" href="mailto:edurnevila@gmail.com">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+</a>
   
-  <a title="Twitter" href="https://twitter.com/edurnevila">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
-  </a>
-</p>
+<a title="Twitter" href="https://twitter.com/edurnevila">
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
+</a>
+
