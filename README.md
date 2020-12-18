@@ -1,4 +1,4 @@
-### <h1>Welcome to Edurne's profile!</h1> 🙋‍♀️ 
+### <h1>Welcome to Edurne's profile!</h1>🙋‍♀️ 
 
 <img src="1200px-React-icon.svg.png" />
 
