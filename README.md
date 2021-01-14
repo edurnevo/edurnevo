@@ -7,7 +7,7 @@ I believe creations made by people should be for the good of people
 <br>
 
 
-Languages and Tools
+Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -18,7 +18,7 @@ Languages and Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-Find me also in
+Find me also in:
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/edurne-vila/">
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="30" height="30" />
