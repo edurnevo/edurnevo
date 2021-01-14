@@ -5,7 +5,6 @@ Eager for learning new things constantly, passionate for any way of creativity a
 <br>
 I believe creations made by people should be for the good of people 
 <br>
-From one place to everywhere, from a team programming to any person around the world 🌍
 
 
 ## Languages and Tools:
